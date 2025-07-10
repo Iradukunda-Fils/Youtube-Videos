@@ -1,0 +1,19 @@
+version = 1
+revision = 2
+requires-python = ">=3.13"
+
+[manifest]
+members = [
+    "antother-project",
+    "project",
+]
+
+[[package]]
+name = "antother-project"
+version = "0.1.0"
+source = { virtual = "antother_project" }
+
+[[package]]
+name = "project"
+version = "0.1.0"
+source = { virtual = "." }
