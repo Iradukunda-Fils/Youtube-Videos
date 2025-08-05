@@ -1,0 +1,16 @@
+ALU CU 
+
+ASCII
+Unicode 
+
+83
+0 1
+bit 1 0
+byte 8 bit
+kilo 1024 by
+
+programming languages
+
+lower
+intermediate
+higher
